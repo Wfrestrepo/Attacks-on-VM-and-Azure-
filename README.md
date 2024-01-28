@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-<b>The main purpose is the identify the attacks through Microsoft Sentinel and Logs Analytics. We will run a script on PowerShell ISE and make use of an API to identify the IP addresses and the location. By the end of the project, we could be able to see the attacks in a Map and recognise the source of them.
+<b>The main purpose is to identify the attacks through Microsoft Sentinel and Logs Analytics. We will run a script on PowerShell ISE and make use of an API to identify the IP addresses and the location. By the end of the project, we could be able to see the attacks in a Map and recognise the source of them.
 </b>
 <br />
 <br />
