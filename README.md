@@ -1,4 +1,4 @@
-<h1>Azure VM expose to the internet.</h1>
+<h1>Azure VM exposed to the internet.</h1>
 
 
 <h2>Description</h2>
